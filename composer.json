@@ -1,0 +1,20 @@
+{
+    "name": "istockfinder",
+    "description": "istockfinder",
+    "license": "proprietary",
+    "keywords": [],
+    "repositories": [],
+    "require": {
+        "php": ">=5.3.3",
+        "guzzlehttp/guzzle": "4.*",
+        "symfony/dom-crawler": "~2.6",
+        "symfony/css-selector": "~2.0"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "classmap": ["vendor/"]
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
