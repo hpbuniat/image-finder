@@ -1,7 +1,7 @@
 {
-    "name": "istockfinder",
-    "description": "istockfinder",
-    "license": "proprietary",
+    "name": "image-finder",
+    "description": "image-finder",
+    "license": "MIT",
     "keywords": [],
     "repositories": [],
     "require": {
